@@ -2,10 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3><br/>
 
 
-![main_comp](https://user-images.githubusercontent.com/57302933/221589011-f04b4b37-9df1-440e-817c-36fab646959e.gif)
-
-
-
+<img src="https://user-images.githubusercontent.com/57302933/221590094-05cfc520-bc76-4f78-9e94-98b38158ef82.gif" width=%70 height = 300px></img>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetakdumn604&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetakdumn604" /> </p>
