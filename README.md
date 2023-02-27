@@ -1,5 +1,12 @@
 <h1 align="center">Hi there 👋 I'm Mehmet Akduman</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3><br/>
+
+
+![main_comp](https://user-images.githubusercontent.com/57302933/221589011-f04b4b37-9df1-440e-817c-36fab646959e.gif)
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetakdumn604&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetakdumn604" /> </p>
 
@@ -23,3 +30,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mehmetakduman"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mehmetakduman" /></a></p><br><br>
+
+
+
