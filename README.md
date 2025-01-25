@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Mehmet Akduman</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3><br/>
+<h3 align="center">A passionate mobile application developer from Turkey</h3><br/>
 
 
 <img src="https://user-images.githubusercontent.com/57302933/221590094-05cfc520-bc76-4f78-9e94-98b38158ef82.gif" width=%70 height = 300px></img>
