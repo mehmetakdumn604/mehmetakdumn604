@@ -17,11 +17,11 @@
 
 ```dart
 const mehmet = {
-  role: "Mobile Application Developer",
-  location: "Turkey 🇹🇷",
-  currentFocus: ["Flutter/Dart", "Node.js", "Full-Stack Development"],
-  passion: "Creating seamless mobile experiences",
-  motto: "Code with purpose, build with passion"
+  "role": "Mobile Application Developer",
+  "location": "Turkey 🇹🇷",
+  "currentFocus": ["Flutter/Dart", "Node.js", "Full-Stack Development"],
+  "passion": "Creating seamless mobile experiences",
+  "motto": "Code with purpose, build with passion"
 };
 ```
 
